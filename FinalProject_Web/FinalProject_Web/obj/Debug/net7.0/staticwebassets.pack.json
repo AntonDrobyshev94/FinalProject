@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalProject_Web.bundle.scp.css",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalProject_Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\FinalProject_Web.bundle.scp.css"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\AdminStyle.css",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\AdminStyle.css",
       "PackagePath": "staticwebassets\\css\\AdminStyle.css"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\FooterStyle.css",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\FooterStyle.css",
       "PackagePath": "staticwebassets\\css\\FooterStyle.css"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\IndexStyle.css",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\IndexStyle.css",
       "PackagePath": "staticwebassets\\css\\IndexStyle.css"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\StyleSheet.css",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\StyleSheet.css",
       "PackagePath": "staticwebassets\\css\\StyleSheet.css"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\favicon.ico",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Application.png",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Application.png",
       "PackagePath": "staticwebassets\\img\\Application.png"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ApplicationLogo.png",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ApplicationLogo.png",
       "PackagePath": "staticwebassets\\img\\ApplicationLogo.png"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Background.jpg",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Background.jpg",
       "PackagePath": "staticwebassets\\img\\Background.jpg"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ContactsMap.png",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ContactsMap.png",
       "PackagePath": "staticwebassets\\img\\ContactsMap.png"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\delete.png",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\delete.png",
       "PackagePath": "staticwebassets\\img\\delete.png"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\editButton.png",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\editButton.png",
       "PackagePath": "staticwebassets\\img\\editButton.png"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\header.jpg",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\header.jpg",
       "PackagePath": "staticwebassets\\img\\header.jpg"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\scripts.js",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\slider_script.js",
+      "Id": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\slider_script.js",
       "PackagePath": "staticwebassets\\js\\slider_script.js"
     },
     {

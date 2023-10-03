@@ -3827,11 +3827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\FinalProject_API\\FinalProject_API\\FinalProject_API.csproj",
+      "projectUniqueName": "F:\\C#\\FinalProject\\FinalProject_API\\FinalProject_API\\FinalProject_API.csproj",
       "projectName": "FinalProject_API",
-      "projectPath": "F:\\C#\\FinalProject_API\\FinalProject_API\\FinalProject_API.csproj",
+      "projectPath": "F:\\C#\\FinalProject\\FinalProject_API\\FinalProject_API\\FinalProject_API.csproj",
       "packagesPath": "C:\\Users\\Drobyshev\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\FinalProject_API\\FinalProject_API\\obj\\",
+      "outputPath": "F:\\C#\\FinalProject\\FinalProject_API\\FinalProject_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VisualStudioSDK\\NuGetPackages"

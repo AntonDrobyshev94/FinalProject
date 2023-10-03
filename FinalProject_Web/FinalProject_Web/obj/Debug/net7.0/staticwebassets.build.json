@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BXhzVM4fpWt552B9sSylms9tfrDOLL+ZUbDTF5uKwEo=",
+  "Hash": "6chwJdo+jsC6vouLBiLtNq5Vk0/jqYC7oeEpN0VjL/Y=",
   "Source": "FinalProject_Web",
   "BasePath": "_content/FinalProject_Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FinalProject_Web\\wwwroot",
       "Source": "FinalProject_Web",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FinalProject_Web.styles.css",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FinalProject_Web.styles.css",
       "SourceId": "FinalProject_Web",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "FinalProject_Web.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FinalProject_Web.styles.css"
+      "OriginalItemSpec": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FinalProject_Web.styles.css"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalProject_Web.bundle.scp.css",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalProject_Web.bundle.scp.css",
       "SourceId": "FinalProject_Web",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "FinalProject_Web.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalProject_Web.bundle.scp.css"
+      "OriginalItemSpec": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalProject_Web.bundle.scp.css"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\AdminStyle.css",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\AdminStyle.css",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "css/AdminStyle.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AdminStyle.css"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\FooterStyle.css",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\FooterStyle.css",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "css/FooterStyle.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\FooterStyle.css"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\IndexStyle.css",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\IndexStyle.css",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "css/IndexStyle.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\IndexStyle.css"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\StyleSheet.css",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\css\\StyleSheet.css",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "css/StyleSheet.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\favicon.ico",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\favicon.ico",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Application.png",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Application.png",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/Application.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Application.png"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ApplicationLogo.png",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ApplicationLogo.png",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/ApplicationLogo.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ApplicationLogo.png"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Background.jpg",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\Background.jpg",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/Background.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Background.jpg"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ContactsMap.png",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\ContactsMap.png",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/ContactsMap.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ContactsMap.png"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\delete.png",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\delete.png",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/delete.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\delete.png"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\editButton.png",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\editButton.png",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/editButton.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\editButton.png"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\header.jpg",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\img\\header.jpg",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "img/header.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header.jpg"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\scripts.js",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\scripts.js",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\slider_script.js",
+      "Identity": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\js\\slider_script.js",
       "SourceId": "FinalProject_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
+      "ContentRoot": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\wwwroot\\",
       "BasePath": "_content/FinalProject_Web",
       "RelativePath": "js/slider_script.js",
       "AssetKind": "All",

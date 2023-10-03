@@ -11,7 +11,6 @@ namespace FinalProject_API.Controllers
     public class ValuesController : ControllerBase
     {
         private readonly ApplicationData repositoryData;
-        public IConfiguration Configuration { get; }
         public ValuesController(ApplicationData repositoryData)
         {
             this.repositoryData = repositoryData;

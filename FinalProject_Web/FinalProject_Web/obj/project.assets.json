@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\FinalProject_Web.csproj",
+      "projectUniqueName": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\FinalProject_Web.csproj",
       "projectName": "FinalProject_Web",
-      "projectPath": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\FinalProject_Web.csproj",
+      "projectPath": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\FinalProject_Web.csproj",
       "packagesPath": "C:\\Users\\Drobyshev\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\FinalProject_Web\\FinalProject_Web\\obj\\",
+      "outputPath": "F:\\C#\\FinalProject\\FinalProject_Web\\FinalProject_Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VisualStudioSDK\\NuGetPackages"
