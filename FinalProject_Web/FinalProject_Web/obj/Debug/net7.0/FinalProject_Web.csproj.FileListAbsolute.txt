@@ -74,3 +74,4 @@ F:\C#\FinalProject\FinalProject_Web\FinalProject_Web\obj\Debug\net7.0\refint\Fin
 F:\C#\FinalProject\FinalProject_Web\FinalProject_Web\obj\Debug\net7.0\FinalProject_Web.pdb
 F:\C#\FinalProject\FinalProject_Web\FinalProject_Web\obj\Debug\net7.0\FinalProject_Web.genruntimeconfig.cache
 F:\C#\FinalProject\FinalProject_Web\FinalProject_Web\obj\Debug\net7.0\ref\FinalProject_Web.dll
+F:\C#\FinalProject\FinalProject_Web\FinalProject_Web\obj\Debug\net7.0\FinalProject_Web.sourcelink.json

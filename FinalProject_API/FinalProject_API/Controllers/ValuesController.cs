@@ -440,12 +440,20 @@ namespace FinalProject_API.Controllers
         [Route("Registration")]
         public async Task<IActionResult> Registration([FromBody] UserRegistration regData)
         {
-            TokenResponseModel loginResponse = await repositoryData.Register(regData);
-            if (loginResponse == null)
+            try
             {
-                return Unauthorized();
+                TokenResponseModel loginResponse = await repositoryData.Register(regData);
+                if (loginResponse == null)
+                {
+                    return Unauthorized();
+                }
+                return Ok(loginResponse);
             }
-            return Ok(loginResponse);
+            catch
+            {
+                return BadRequest("Ошибка");
+            }
+            
         }
 
         /// <summary>
@@ -458,12 +466,20 @@ namespace FinalProject_API.Controllers
         [Route("Authenticate")]
         public async Task<IActionResult> Authenticate([FromBody] UserLoginProp loginData)
         {
-            TokenResponseModel loginResponse = await repositoryData.Login(loginData);
-            if (loginResponse == null)
+            try
             {
-                return Unauthorized();
+                TokenResponseModel loginResponse = await repositoryData.Login(loginData);
+                if (loginResponse == null)
+                {
+                    return Unauthorized();
+                }
+                return Ok(loginResponse);
             }
-            return Ok(loginResponse);
+            catch
+            {
+                return BadRequest("Ошибка");
+            }
+            
         }
 
         /// <summary>

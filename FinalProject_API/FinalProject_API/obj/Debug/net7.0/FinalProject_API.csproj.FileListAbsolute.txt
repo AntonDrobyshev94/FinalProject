@@ -162,3 +162,4 @@ F:\C#\FinalProject\FinalProject_API\FinalProject_API\obj\Debug\net7.0\refint\Fin
 F:\C#\FinalProject\FinalProject_API\FinalProject_API\obj\Debug\net7.0\FinalProject_API.pdb
 F:\C#\FinalProject\FinalProject_API\FinalProject_API\obj\Debug\net7.0\FinalProject_API.genruntimeconfig.cache
 F:\C#\FinalProject\FinalProject_API\FinalProject_API\obj\Debug\net7.0\ref\FinalProject_API.dll
+F:\C#\FinalProject\FinalProject_API\FinalProject_API\obj\Debug\net7.0\FinalProject_API.sourcelink.json
